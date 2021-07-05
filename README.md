@@ -1,5 +1,3 @@
-<p>Using the song and log datasets, need to create a star schema optimized for queries on song play analysis.<br>
-This includes the following tables.</p>
 
 ### Project
 <p>you will process the event_datafile_new.csv dataset to create a denormalized dataset
